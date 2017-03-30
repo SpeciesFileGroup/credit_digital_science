@@ -10,8 +10,8 @@ Best: Fork the repository, make a pull request. Good: Submit an issue.
 
 # Related links
 
-* [Data carpentry] (http://www.datacarpentry.org/)
-* [Force11] (https://www.force11.org/)
+* [Data carpentry](http://www.datacarpentry.org/)
+* [Force11](https://www.force11.org/)
 
 # Digital Productivity
 
