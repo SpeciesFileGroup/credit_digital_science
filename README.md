@@ -14,6 +14,7 @@ Best: Fork the repository, make a pull request. Good: Submit an issue.
 * [Data carpentry](http://www.datacarpentry.org/)
 * [Force11](https://www.force11.org/)
 
+
 # Digital Productivity
 
 ## Products
@@ -45,6 +46,8 @@ And be in one of these categories:
 ## Metrics
 
 Metrics are dependant on the type of product being evaluated.  It is critical to note that products in these categories have a diverse range of impacts, some of which can be far beyond the original intent.  The following are variously applicable, and not intended to represent a comprehensive set.  They should not be evaluated without a deeper understanding of what they represent.  For example a research stating that they made 10,000 changes to a code base may not be as important as a researcher who made 10 changes (i.e. they simply might have a different workflow, be not as effective, etc.).  Nevertheless when taken collectively each item here is important to evaluation.
+
+* [Interesting take on managment](https://svpow.com/2017/03/17/every-attempt-to-manage-academia-makes-it-worse/)
 
 ### Digital asset metrics
 * Number of times asset has been downloaded (e.g. downloading a software library)
